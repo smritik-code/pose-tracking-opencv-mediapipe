@@ -29,4 +29,4 @@ This project performs real-time human pose tracking using MediaPipe and OpenCV. 
 - Connections: green lines between visible joints
 
 
-![2025-07-05T14:06:51,212948245+05:45](https://github.com/user-attachments/assets/44eecdf8-c517-4dfb-bed9-cbd33aa138c2)
+![2025-07-05T14:43:10,131426104+05:45](https://github.com/user-attachments/assets/a6f47514-08d8-493a-9e34-4505a9810c80)
